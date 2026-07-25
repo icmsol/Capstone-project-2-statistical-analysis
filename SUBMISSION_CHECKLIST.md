@@ -17,8 +17,12 @@
 - [x] Report includes technical and non-technical interpretation.
 - [x] Report discusses limitations, bias, ethical concerns, and misuse risk.
 - [x] Required Lusa et al. article is cited.
-- [x] Additional peer-reviewed sources are cited: Baillie et al. and McHugh.
+- [x] Additional peer-reviewed sources are cited: Baillie et al., McHugh, and Wilson.
 - [x] References use a consistent APA-style format.
 - [x] Original source files are included.
 - [x] Processed dataset and data dictionary are included.
 - [x] `requirements.txt` was generated with `python -m pip freeze > requirements.txt`.
+- [x] A project-specific frozen `requirements.txt` contains no local-only file paths.
+- [x] The integrated analytical CSV is included beside the notebook as well as under `data/processed`.
+- [x] GitHub repository uses `main` and `development` branches and preserves a pull-request merge history.
+- [x] GitHub repository: https://github.com/icmsol/Capstone-project-2-statistical-analysis

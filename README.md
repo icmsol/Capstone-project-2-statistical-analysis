@@ -31,6 +31,7 @@ Do the relative frequencies of two ICM staffing-demand families—Technology Del
 ```text
 .
 ├── analysis.ipynb
+├── california_public_procurement_2021_2026.csv
 ├── README.md
 ├── requirements.txt
 ├── Statistical_Analysis_Report.pdf
@@ -68,12 +69,12 @@ The original source exports are preserved under `data/raw`. The notebook standar
 ## Reproducing the Analysis
 
 1. Clone or download this repository.
-2. Use Python 3.9 or later.
+2. Use Python 3.13 (the final notebook was validated with Python 3.13.5).
 3. Create and activate a virtual environment.
-4. Install the captured environment:
+4. Install the project-specific frozen environment:
 
    ```bash
-   pip install -r requirements.txt
+   python -m pip install -r requirements.txt
    ```
 
 5. Start Jupyter Notebook or JupyterLab from the repository root.
@@ -105,3 +106,7 @@ The title-based relevance classification is deliberately conservative but cannot
 ## Academic Sources
 
 The statistical report cites the required peer-reviewed article on systematic initial data analysis and additional peer-reviewed methodological sources. Full APA references are provided in `Statistical_Analysis_Report.pdf` and `module_summary.pdf`.
+
+## GitHub Workflow
+
+The repository was developed on a `development` branch and merged into `main` through a pull request. The repository is available at https://github.com/icmsol/Capstone-project-2-statistical-analysis.
