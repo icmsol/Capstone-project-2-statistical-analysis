@@ -1,0 +1,25 @@
+field,data_type,origin,description
+record_key,string,Derived,"SHA-256-based composite fingerprint of portal, agency, bid ID, normalized title, and due date."
+source_portal,category,Standardized,Procurement portal that supplied the record.
+source_url,string,Added,Public portal URL used as the data source.
+jurisdiction_level,category,Added,"State, County, or City."
+jurisdiction_name,string,Added,"California, El Dorado County, or City of Sacramento."
+agency_id_raw,string,Source,Original agency identifier when available.
+agency_name,string,Standardized,State department or local jurisdiction name.
+solicitation_id,string,Source,Original event or bid identifier.
+solicitation_title,string,Source,Original bid title.
+title_normalized,string,Derived,Lowercase title normalized for deterministic rule matching.
+due_datetime_raw,string,Source,Original deadline text.
+due_datetime,datetime,Derived,Parsed response deadline.
+due_date,date,Derived,Calendar date portion of the response deadline.
+calendar_month,string,Derived,YYYY-MM month of the deadline.
+fiscal_year,category,Derived,California fiscal year beginning July 1.
+fiscal_quarter,category,Derived,"Q1 Jul-Sep, Q2 Oct-Dec, Q3 Jan-Mar, or Q4 Apr-Jun."
+status_raw,string,Source,Original portal status.
+status_normalized,category,Derived,Cross-source normalized status.
+buyer_name,string,Source,Buyer name where available.
+buyer_email,string,Source,Buyer email where available.
+service_category,category,Derived,Deterministic ICM service category or Not ICM-relevant.
+staffing_family,category,Derived,"Technology Delivery; Advisory, Assurance & Change; or Not ICM-relevant."
+icm_relevant,boolean,Derived,Whether the title matched the high-precision ICM service rules.
+classification_basis,string,Derived,"Matched term, exclusion reason, or no-match reason."

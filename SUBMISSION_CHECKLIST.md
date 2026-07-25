@@ -1,0 +1,24 @@
+# Project 2 Submission Checklist
+
+- [x] `analysis.ipynb` runs top to bottom without execution errors.
+- [x] Dataset loads correctly and data types are validated.
+- [x] Dataset exceeds 500 rows and 6 columns.
+- [x] Dataset contains numeric and categorical/grouping variables.
+- [x] Data differs materially from Project 1 through a five-year, multi-jurisdictional integrated source.
+- [x] `df.head()`, data types, source coverage, missingness, and duplicate checks are included.
+- [x] Summary statistics, categorical counts, and numeric distributions are included.
+- [x] Four visual models have descriptive titles and labeled axes.
+- [x] The visual models are explicitly compared, including trade-offs and the best model for the analytical question.
+- [x] Null and alternative hypotheses are stated in Markdown.
+- [x] A valid chi-square test reports observed counts, expected counts, statistic, degrees of freedom, p-value, assumption check, residuals, and Cramer's V.
+- [x] Notebook ends with a 5-sentence summary of exploration, findings, and challenges.
+- [x] `Statistical_Analysis_Report.pdf` includes all required sections.
+- [x] `module_summary.pdf` is also included to resolve inconsistent report naming in the instructions.
+- [x] Report includes technical and non-technical interpretation.
+- [x] Report discusses limitations, bias, ethical concerns, and misuse risk.
+- [x] Required Lusa et al. article is cited.
+- [x] Additional peer-reviewed sources are cited: Baillie et al. and McHugh.
+- [x] References use a consistent APA-style format.
+- [x] Original source files are included.
+- [x] Processed dataset and data dictionary are included.
+- [x] `requirements.txt` was generated with `python -m pip freeze > requirements.txt`.

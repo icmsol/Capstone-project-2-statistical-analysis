@@ -1,0 +1,57 @@
+record_key,jurisdiction_level,agency_name,solicitation_id,solicitation_title,icm_relevant,service_category,classification_basis
+9141682f775d47a33ab3,State,Office of Emergency Services,0000033193,RFQ A241013928 Cybersecurity Assessment for NG 9-1-1 and 988 for CalOES,True,"Cloud, Infrastructure & Cybersecurity",Matched: cybersecurity
+0ca12becc983a1f08777,State,Department of Transportation,20A0378,Request for Quote for Information Technology Services (RFQ-ITS) 20A0378 Strategic Information Management Solution (SIMS),True,IT Consulting & Staff Augmentation,Matched: information technology services
+1cccef1607ee9e963a56,State,Department of General Services,0000037224,"RFP 37224 - CASE MANAGEMENT SYSTEM (CMS) REPLACEMENT, IMPLEMENTATION AND ONGOING SUPPORT",True,Software Development & Systems Integration,Matched: case management system
+b5e7ea4bc9f19f144ff0,State,State Controller,EUPD90522,Information Technology Service California Multiple Award Schedule - Independent Verification and Validation Services,True,"Project Management, IV&V & Quality",Matched: independent verification and validation
+82f6ac87e929c3c27280,State,DGS - Statewide Procurement,0000032633,Invitation to Upcoming Generative Artificial Intelligence (GenAI) large language model (LLM) Developer Showcase,True,"Data, Analytics & AI",Matched: artificial intelligence
+577d0fe39bf6bf76501c,State,Department of Transportation,51A0554,Advanced Transportation Management System Replacement (ATMSR) System Integration,True,Software Development & Systems Integration,Matched: system integration
+9acfc9efbe8c0033cbec,State,State Controller,ELPG90224,Request for Quote - Information Technology Services (RFQ-ITS) ELGP90224,True,IT Consulting & Staff Augmentation,Matched: information technology services
+339664d1ebc916b0f494,State,Statewide STPD,0000025965,RFI C5611387-D CDCR Data Warehouse and Visualization Tool,True,"Data, Analytics & AI",Matched: data warehouse
+89f540ec55271b4b66a9,State,CA STATE AUDITOR'S OFFICE,0000033277,RFP No. 25-02 Information Systems Controls Review of FI$Cal,True,Software Development & Systems Integration,Matched: information systems
+7fb52a3c953252b0a1d3,State,Employment Development Dept,0000037768,NOTICE OF INTENT TO AWARD IFB No. 124995 - Northern/Central California Assistive Technology Training,True,"Organizational Change, Training & Process",Matched: technology training
+6c60f611561963de989f,State,Department of General Services,0000034924,WANTED TO LEASE BY THE STATE OF CALIFORNIA - Chatsworth,False,Not ICM-relevant,No target-service term
+89aa4981e4f44fe6ba4f,State,"CSU, San Jose",0000030139,"SJSU FIRE ALARM PANEL REPLACEMENT PHASE 2 & 3, PROJECT# P21022053",False,Not ICM-relevant,No target-service term
+08dc3d5cd2c0c117f1d5,State,Dept of the CA Highway Patrol,0000028201,CHP Bottled Water Service,False,Not ICM-relevant,No target-service term
+95d9359a2b316c7dd159,State,Department of Fish & Wildlife,0000026013,"HVAC Maintenance, Kern River Plant Base",False,Not ICM-relevant,No target-service term
+03bad56276a26f39320a,State,Employment Development Dept,0000021940,Employment Development Department - Fire/Intrusion Alarm System Replacement Services,False,Not ICM-relevant,No target-service term
+1c57cb49ab4150e2375a,State,Military Department,0000032904,"Sampling, Monitoring, Reporting and Support Services for Wastewater",False,Not ICM-relevant,No target-service term
+b41b7b6c6b1c6f3d151e,State,Department of Motor Vehicles,23-214,23-214 Roof replacement at the San Pedro DMV field offi,False,Not ICM-relevant,No target-service term
+5faae6ba9d2a65798a22,State,Department of Transportation,10A2374,SB Minor B-Replace Cabinets and Controllers,False,Not ICM-relevant,No target-service term
+6b4855b279b5b642975d,State,Department of Transportation,04A7187,IFB 04A7187 Entry Level Driver Training (ELDT) and Commercial Driver¿s License (CDL/A) Training Services in Alameda County,False,Not ICM-relevant,No target-service term
+cdafeb348830e573faa9,State,UCLA,0000028563,"UCLA Parking Structure 2 L7 and 8 L4, Waterproof Top Deck Refurbishment",False,Not ICM-relevant,No target-service term
+962d797e320897208506,County,El Dorado County,24-0032,RFP - Electronic Document Management System and Document Scanning,True,Software Development & Systems Integration,Matched: document management system
+a4d290f6e2cd4f4f25d4,County,El Dorado County,24-0061,RFI - Probation Services and Institutions Case Management System,True,Software Development & Systems Integration,Matched: case management system
+88cea456b95dafc5450f,County,El Dorado County,23-918-009,RFI - Asset Management System Software,True,Software Development & Systems Integration,Matched: asset management system
+99258362f38388f1bee5,County,El Dorado County,24-0033,Environmental Health/Air Quality Permit and Data Management System Software Solution,True,"Data, Analytics & AI",Matched: data management
+955f2e601818d0b1ca83,County,El Dorado County,23-918-033,RFP - Software-as-a-Services (SaaS) Grants Management System,True,Software Development & Systems Integration,Matched: grants management system
+416a02aae0d299764f3b,County,El Dorado County,24-958-030,RFI - Electronic Document Management System,True,Software Development & Systems Integration,Matched: document management system
+ad67a3b457dc3985e53b,County,El Dorado County,22-915-037,RFP - Website Redesign and Site Management Services,True,Software Development & Systems Integration,Matched: website redesign
+0cf7fb353f32ae1b8981,County,El Dorado County,24-725-005,Avaya Communications Equipment,False,Not ICM-relevant,No target-service term
+850c579234ab44f60caa,County,El Dorado County,24-956-022,RFP - Integrated Library Software and Online Public Access Catalog,False,Not ICM-relevant,No target-service term
+57377045a744b66f7b56,County,El Dorado County,24-0065,RFP - As-Needed Environmental Review Services,False,Not ICM-relevant,No target-service term
+fb280a254e706ca96063,County,El Dorado County,23-465-006,Zoll AED 3 Automated External Defibrillator and Accessories,False,Not ICM-relevant,No target-service term
+4e130fccff5fa3f7c625,County,El Dorado County,2025-0135,Toyota Sienna XLE AWD,False,Not ICM-relevant,No target-service term
+d5860bbcbc56b6b81a3b,County,El Dorado County,2026-0123,Herbicides,False,Not ICM-relevant,No target-service term
+e5f04abe364b44708814,County,El Dorado County,24-0057,"RFQ - Funeral, Mortuary, Burial and Cremation Services",False,Not ICM-relevant,No target-service term
+c145757a8fd3697d63df,County,El Dorado County,24-292-033,Road Salt and Sea Salt,False,Not ICM-relevant,No target-service term
+24f59abba98a856612da,County,El Dorado County,24-961-015,RFP - Time and Attendance Management System,False,Not ICM-relevant,No target-service term
+f8c442df571e63bbab4c,County,El Dorado County,2025-0164,2025/2026 Toyota Camry SE AWD or Equivalent,False,Not ICM-relevant,No target-service term
+c9ae938651be922f069e,City,City of Sacramento,P22071011005,Website Design & Development Consulting Services,True,Software Development & Systems Integration,Matched: website design
+ba76dd798c5e65cee16a,City,City of Sacramento,P26071011005,ServiceNow Technical Services,True,Software Development & Systems Integration,Matched: servicenow technical services
+4e1697264d0a2f3db3cf,City,City of Sacramento,P24071011005,City of Sacramento Data Strategy & Governance Plan,True,"Data, Analytics & AI",Matched: data strategy
+573062828c759ff60533,City,City of Sacramento,P26071011006,ServiceNow  Professional Services,True,Software Development & Systems Integration,Matched: servicenow professional services
+48374963c5128fcfa262,City,City of Sacramento,P22071011002,Geographic Information Systems Professional Service Support,True,Software Development & Systems Integration,Matched: information systems
+b2f80046e8b7c9148a88,City,City of Sacramento,P25021411001,Economic Development Data Intelligence Software Service,True,Software Development & Systems Integration,Matched: software service
+28b3ce366e2e8da2f407,City,City of Sacramento,P24071011007,Grants Management System Enhancement and Support,True,Software Development & Systems Integration,Matched: grants management system
+9d331cc7dfc751e57201,City,City of Sacramento,P24071011006,City of Sacramento Data Strategy & Governance Plan,True,"Data, Analytics & AI",Matched: data strategy
+c56c5c82a2da3303f12e,City,City of Sacramento,P24071011002,Utilities IT Digital Strategy Plan,True,IT Consulting & Staff Augmentation,Matched: digital strategy
+675bae3f8e830294e8ef,City,City of Sacramento,Q24141311031,Source Water Protection Consultation,False,Not ICM-relevant,No target-service term
+1bb867d34f853b935cab,City,City of Sacramento,P25141222805,Department of Utilities (DOU) Safety Training Program,False,Not ICM-relevant,No target-service term
+b4088288c60b596cc93c,City,City of Sacramento,Q26051011001,Request for Qualifications for Arbitrage Consultant,False,Not ICM-relevant,No target-service term
+e7cbd713c5ba110d2cd3,City,City of Sacramento,B22804101003,Short-term Rental of Heavy Equipment; Gravel Screening and Habitat Construction,False,Not ICM-relevant,No target-service term
+ae49468c14ba174045af,City,City of Sacramento,P241519201015,SVS Regional Bus Mobility Hub NEPA Environmental,False,Not ICM-relevant,No target-service term
+1900daf7909e51746f75,City,City of Sacramento,P25231021005,Roseville Road Campus Operations,False,Not ICM-relevant,No target-service term
+533729657746976e56f2,City,City of Sacramento,P24211441001,Shelter Needs Assessment,False,Not ICM-relevant,No target-service term
+2ddfff1305b7f2c93e9f,City,City of Sacramento,B21191311009,Pond Maintenance and Testing in City Parks,False,Not ICM-relevant,No target-service term
+9fed24e15a20e097dec9,City,City of Sacramento,B25151811047,As-Need Purchase of Arborist Materials and Supplies,False,Not ICM-relevant,No target-service term
+0dfffeacaf781db00cf2,City,City of Sacramento,P2602101101,Community Violence Reduction Strategy,False,Not ICM-relevant,No target-service term
